@@ -27,6 +27,17 @@ I build AI-powered products that automate real workflows — shipping real apps,
 
 ---
 
+## Certifications
+
+**Vibe Coding with Cursor AI**  
+Coursera · Content authorized by Scrimba · Completed May 12, 2026
+
+Introductory, project-oriented course on AI-assisted development in Cursor: using the AI chat to generate and refine code, working with agent-style assistance for small features, and debugging with context-aware tools. Also includes practical exposure to automation-style workflows, coding agents at a foundational level, and introductory Model Context Protocol (MCP) ideas—focused on modern AI coding workflows rather than advanced platform engineering.
+
+**Verification:** [Coursera — verify credential](https://www.coursera.org/account/accomplishments/verify/T2U0L97SCSYL)
+
+---
+
 ## 📚 Currently Learning
 
 - Building production-grade async systems (job queues, background workers)
