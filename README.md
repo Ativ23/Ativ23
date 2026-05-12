@@ -36,6 +36,8 @@ Introductory, project-oriented course on AI-assisted development in Cursor: usin
 
 **Verification:** [Coursera — verify credential](https://www.coursera.org/account/accomplishments/verify/T2U0L97SCSYL)
 
+Longer-form notes and learning log: [ai-builder-journey](https://github.com/Ativ23/ai-builder-journey)
+
 ---
 
 ## 📚 Currently Learning
